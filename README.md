@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👨‍🎓 Bionic Engineering | 🤖 Machine Learning Enthusiast
 
 🔧 Proficient in TensorFlow, Multifractal Data Analysis, and IoT technologies.
